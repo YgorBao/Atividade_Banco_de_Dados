@@ -3,6 +3,7 @@
 01) Selecione todos os dados dos países da tabela_paises;
 
 Codigo =
+blob:https://web.whatsapp.com/38cdad1c-6b65-4348-a461-5d70042baf58
 
 ![6b6ffa0b-0d0a-45a2-812e-deb37f7e080c](https://github.com/YgorBao/Atividade_Banco_de_Dados/assets/117213568/21d32768-f080-45f7-8629-0c4604bd143b)
 
